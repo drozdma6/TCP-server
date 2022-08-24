@@ -1,0 +1,11 @@
+# ninja log v5
+3	52	1661358003238073291	CMakeFiles/semestral.dir/Coords.cpp.o	f9359ae315725ade
+1	443	1661357986828792714	CMakeFiles/semestral.dir/main.cpp.o	bb386a22b8cc30af
+0	34	1661359481877422225	build.ninja	6c1cee11b96352f5
+53	83	1661358003269467287	semestral	4abea2af88c83fa4
+0	42	1661359481877422225	build.ninja	aca98aa4b3aaedd2
+4	474	1661359482356682242	CMakeFiles/semestral.dir/main.cpp.o	bb386a22b8cc30af
+1	346	1661359809365728508	CMakeFiles/semestral.dir/main.cpp.o	bb386a22b8cc30af
+1	368	1661360085292801841	CMakeFiles/semestral.dir/main.cpp.o	bb386a22b8cc30af
+1	375	1661360085301843119	CMakeFiles/semestral.dir/Robot.cpp.o	def96a92633a007f
+375	414	1661360085342669383	semestral	e18b3cee187a5ed2
